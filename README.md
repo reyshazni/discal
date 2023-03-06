@@ -1,0 +1,2 @@
+# discal
+DisCal = Discount Calculator
