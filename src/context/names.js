@@ -6,7 +6,7 @@ function Names() {
 
   return (
     <div>
-      <CustomName name='Person 1' type='text' placeholder='Item' />
+      <CustomName name='Person 1' type='number' placeholder='Item Price' />
     </div>
   );
 }

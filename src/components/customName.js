@@ -14,8 +14,6 @@ function CustomName({name, type, placeholder}) {
     setOrderList(orderList.concat(<CustomForm type={type} placeholder={placeholder} onClick={deleteOrderHandler} key={orderList.length}/>))
   }
 
-  
-
   return (
     <div className='w-[80%] mx-auto'>
       <div className="flex flex-row justify-between mb-[14px]">
